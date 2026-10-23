@@ -240,4 +240,4 @@ This repository serves as the official landing page for MySQL 4. The software is
 **Get the most recent version of MySQL 4 today!**
 
 ---
-**Last updated:** 2026-10-23 13:53:09 UTC
+**Last updated:** 2026-10-23 17:59:57 UTC
